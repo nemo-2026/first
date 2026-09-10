@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 def main():
-    print("你好")
+    print("你 好")
 
 
 if __name__ == "__main__":
